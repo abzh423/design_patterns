@@ -1,6 +1,5 @@
 # Design Patterns and Best Practices
 
-**Following is what you need for this book:**
 This book is for web developers who want to increase their understanding of React and apply it to real-life app development. Intermediate-level experience with React and JavaScript is assumed.
 
 ### Related Books
